@@ -1,0 +1,21 @@
+#canvas1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -10;
+  background: linear-gradient(
+    90deg,
+    #ffcbf2ff,
+    #f3c4fbff,
+    #ecbcfdff,
+    #e5b3feff,
+    #e2afffff,
+    #deaaffff,
+    #d8bbffff,
+    #d0d1ffff,
+    #c8e7ffff,
+    #c0fdffff
+  );
+}
